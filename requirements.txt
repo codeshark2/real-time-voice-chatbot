@@ -1,0 +1,4 @@
+openai
+pyaudio
+vosk
+platform
